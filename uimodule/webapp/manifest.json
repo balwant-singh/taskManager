@@ -72,19 +72,19 @@
       },
       "routes": [
         {
-          "name": "RouteMain",
-          "pattern": "RouteMain",
+          "name": "Dashboard",
+          "pattern": "",
           "target": [
-            "TargetMain"
+            "Dashboard"
           ]
         }
       ],
       "targets": {
-        "TargetMain": {
+        "Dashboard": {
           "viewType": "XML",
           "viewLevel": 1,
-          "viewId": "idAppControl",
-          "viewName": "Main"
+          "viewId": "Dashboard",
+          "viewName": "Dashboard"
         }
       }
     }

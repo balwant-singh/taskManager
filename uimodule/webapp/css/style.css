@@ -1,1 +1,17 @@
 /* Enter your custom styles here */
+.candentTheme .sapTntToolHeader.sapMTB {
+    background-color: #1a90bd;
+    box-shadow: inset 0 -0.0625rem 0 0 #1a90bd;
+}
+
+.candentTheme .sapMIBar.sapMTB .sapMBarChild.logo {
+    margin-top: 0.2rem;
+}
+
+.candentTheme .mainContent {
+    height: calc(100% - 2.75rem) !important;
+}
+
+.candentTheme .sideNavigation {
+    height: 100%;
+}
