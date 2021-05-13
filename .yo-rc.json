@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "taskManager",
+    "namespace": "com.candent.tools",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "viewname": "Main",
+    "ui5libs": "Content delivery network (OpenUI5)",
+    "newdir": false,
+    "namespaceURI": "com/candent/tools",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
